@@ -1,0 +1,17 @@
+# Incident-specific investigation evidence & quarantined malware
+crypto-miner-investigation/
+ForensicCleanupLogs/
+backups/
+*.log
+
+# Internal notes & working files
+Forensic-cleanup-utility-plan.md
+Forensic-cleanup-utility-prompt.md
+generate_pdf_guide.py
+walkthrough.md
+MD-files/
+*.pdf
+
+# OS artifacts
+.DS_Store
+*.swp
